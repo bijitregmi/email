@@ -1,0 +1,22 @@
+textarea {
+    min-height: 400px;
+}
+
+.mail {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    padding: 4px 4px;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.arch-btn {
+    display: flex;
+}
+
+#arch {
+    margin-left: auto;
+}
