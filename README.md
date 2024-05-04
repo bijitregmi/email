@@ -40,6 +40,10 @@ Home page
 
 ![Homepage](/mail/static/mail/Inbox.png)
 
+Email Page
+
+![Email](/mail/static/mail/EmailPage.png)
+
 Compose email
 
 ![Compose email](/mail/static/mail/Compose.png)
